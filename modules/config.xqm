@@ -319,7 +319,7 @@ declare variable $config:context-path :=
 (:~
  : The root of the collection hierarchy containing data.
  :)
-declare variable $config:data-root := '/db/apps/grimm-data/';
+declare variable $config:data-root := '/db/apps/gl-pt-data/';
 
 (:~
  : The root of the collection hierarchy whose files should be displayed
